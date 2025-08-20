@@ -38,15 +38,10 @@ While the focus of refactoring is not optimization, certain performance improvem
 
 Why This Refactoring is Better
 Overall, the refactored version of the project is significantly better because:
-
 The code is cleaner and easier to read.
-
 Functions and variables follow meaningful naming conventions.
-
 Reusability has been increased by introducing reusable methods.
-
 Maintainability is improved by reducing duplication and splitting large functions.
-
 The project is now more robust, with error handling and validation.
 
 Future developers (or even the same developer after a few months) will find it much easier to understand and extend the project.
