@@ -42,8 +42,4 @@ The code is cleaner and easier to read.
 Functions and variables follow meaningful naming conventions.
 Reusability has been increased by introducing reusable methods.
 Maintainability is improved by reducing duplication and splitting large functions.
-The project is now more robust, with error handling and validation.
 
-Future developers (or even the same developer after a few months) will find it much easier to understand and extend the project.
-
-This aligns with the goals of refactoring: improving code quality while keeping behavior unchanged. The program output remains the same, but the structure is cleaner, more professional, and future-ready.
